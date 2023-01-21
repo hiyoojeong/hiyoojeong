@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-?style=flat-square&logo=Git&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white)
 
 
 
