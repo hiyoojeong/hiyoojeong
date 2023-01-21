@@ -19,6 +19,12 @@
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white)
 
+## 📌 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyoojeong)](https://github.com/hiyoojeong/github-readme-stats)
+
+## 📌 GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyoojeong)](https://github.com/hiyoojeong/github-readme-stats)
+
 
 
 
