@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white")
+![MongoDB Badge](https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white")
 ![Git Badge](https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white)
 
 ## 📌 Most Used Languages
