@@ -27,6 +27,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyoojeong)](https://github.com/hiyoojeong/github-readme-stats)
 
 
+### Actually, I am ... [hiyoojeong](https://github.com/hiyoojeong) ♥️
 
-
-
+![쇼콜라바닐림](https://user-images.githubusercontent.com/127427036/224086345-a0e2df95-803f-4274-9e49-10eea095c6af.png)
