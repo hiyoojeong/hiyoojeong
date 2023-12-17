@@ -13,6 +13,7 @@
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Boot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
 ![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
@@ -25,8 +26,3 @@
 
 ## 📌 GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyoojeong)](https://github.com/hiyoojeong/github-readme-stats)
-
-
-### Actually, I am ... [byeyoojeong](https://github.com/byeyoojeong) ♥️
-
-![쇼콜라바닐림](https://user-images.githubusercontent.com/127427036/224086345-a0e2df95-803f-4274-9e49-10eea095c6af.png)
