@@ -1,28 +1,30 @@
 # Hi! I'm YooJeong 👋🏻 
 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiyoojeong&count_bg=%23EEEE62&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visites&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_you.xx_/)](https://www.instagram.com/_you.xx_/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiyoojeong@gmail.com)](mailto:hiyoojeong@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@hiyoojeong)](https://velog.io/@hiyoojeong)
 
-## 📌 Tech Stack
-![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+### Tech Stack
+
+- Language : 
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+
+- Backend : 
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Spring Boot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
-![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
+![Spring Boot Badge](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![MongoDB Badge](https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white)
 
-## 📌 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiyoojeong)](https://github.com/hiyoojeong/github-readme-stats)
+- DevOps :
+![AWS](https://img.shields.io/badge/AWS-%2320232a.svg?style=flat-square)
+![GitHubActions](https://camo.githubusercontent.com/e5d38b48cf4fe71ce9a5ecc82b89d912c8e11e489367f32a156873e81e7aebc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676974687562616374696f6e732d3242384346463f7374796c653d666c61742d737175617265266c6f676f3d676974687562616374696f6e73266c6f676f436f6c6f723d7768697465)
+![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white)
 
-## 📌 GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiyoojeong)](https://github.com/hiyoojeong/github-readme-stats)
+
+### Experience
+
+- 삼성 청년 SW 아카데미12th
+
+### Problem Solving Stats
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hiyoojeong)](https://solved.ac/hiyoojeong/)
