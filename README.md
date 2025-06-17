@@ -1,8 +1,4 @@
-# Hi! I'm YooJeong 👋🏻 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhiyoojeong&count_bg=%23EEEE62&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visites&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hiyoojeong@gmail.com)](mailto:hiyoojeong@gmail.com)
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@hiyoojeong)](https://velog.io/@hiyoojeong)
+## 안녕하세요, 개발자 조유정입니다. 👋🏻 
 
 ### Tech Stack
 
@@ -13,6 +9,7 @@
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot Badge](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Oracle Badge](https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 - DevOps :
 ![AWS](https://img.shields.io/badge/AWS-%2320232a.svg?style=flat-square)
