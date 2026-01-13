@@ -13,7 +13,6 @@
 
 - DevOps :
 ![AWS](https://img.shields.io/badge/AWS-%2320232a.svg?style=flat-square)
-![GitHubActions](https://camo.githubusercontent.com/e5d38b48cf4fe71ce9a5ecc82b89d912c8e11e489367f32a156873e81e7aebc2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676974687562616374696f6e732d3242384346463f7374796c653d666c61742d737175617265266c6f676f3d676974687562616374696f6e73266c6f676f436f6c6f723d7768697465)
 ![EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white)
 ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white)
 
